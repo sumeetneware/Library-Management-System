@@ -1,4 +1,4 @@
-=============================================== Library Management System =================================================
+================= Library Management System ===================
 ## Problem Statement – Library Management System
 No central system to track books, loans, and borrowers.
 Students struggle to find books and manage loan deadlines.
