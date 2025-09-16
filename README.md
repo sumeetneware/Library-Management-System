@@ -25,34 +25,34 @@ Design simple interfaces for easy access and navigation.
 
 1. Requirement Gathering
 Talk to Stakeholders
-Library Admin → Understand how books are managed, reports required, and user roles.
-Librarians → Learn how loans, returns, and notifications are handled.
-Students → Understand how they search for books and view loans.
-Guardians → Learn how they track their child’s loans and overdue alerts.
+ Library Admin → Understand how books are managed, reports required, and user roles.
+ Librarians → Learn how loans, returns, and notifications are handled.
+ Students → Understand how they search for books and view loans.
+ Guardians → Learn how they track their child’s loans and overdue alerts.
 
-2. Collect Requirements
+3. Collect Requirements
 Allow students to borrow books.
 Track books with availability status.
 Prevent issuing the same book to multiple borrowers.
 Notify borrowers about due dates and overdue loans.
 
-3. Stakeholder Analysis
+4. Stakeholder Analysis
 Admin(System setup): Manage users, reports, permissions
 Librarian(Book management): Issue and return books, track overdue loans
 Student(Borrower): View loans, request books
 Guardian(Support role): Monitor student loans and receive notifications
 
-4. Business Process Mapping
+5. Business Process Mapping
 Example flow:
 Student searches for a book → Librarian checks availability → Loan record is created → Due date is calculated → Notification sent before due date → Book is returned  → Report updated → Alerts sent for overdue books.
 
-5. Industry-specific Use Case Analysis
+6. Industry-specific Use Case Analysis
 Books need tracking because they are often lost or overdue.
 Students need reminders to return books.
 Guardians want access to their child’s loan history.
 Reports help librarians understand which books are popular or underutilized.
 
-6. AppExchange Exploration
+7. AppExchange Exploration
 Popular apps in this space include:
 Handy Library: A book organizer that allows for ISBN scanning and tracks loaned books with reminders. It offers a free tier for up to 100 books and a paid premium version for unlimited use.
 Librarika: A free integrated library system for up to 2,000 titles, with features like member management, overdue reminders, and barcode scanner support.
