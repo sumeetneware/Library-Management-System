@@ -207,7 +207,7 @@ VS Code & SFDX: For developer-centric deployments
 
 
 
-Phase 9: Reporting, Dashboards & Security Review
+## Phase 9: Reporting, Dashboards & Security Review
 Reports:
 Tabular → List of overdue books.
 Summary → Count of books issued per student.
@@ -228,7 +228,7 @@ Audit Trail → Track librarian’s record edits.
 
 
 
-Phase 10: Final Presentation & Demo Day
+## Phase 10: Final Presentation & Demo Day
 
 Pitch Presentation: Problem (manual library records) → Solution (automated Salesforce app).
 Demo Walkthrough:
